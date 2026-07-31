@@ -13,8 +13,8 @@
       <a href="https://linkedin.com/in/lucas-molozzi-mantelli-ab00b5271" />  LinkedIn  
     </th> 
     <th>
-  <a href="https://instagram.com/lucasboina09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasboina09" height="30" width="40" /></a>
-  <a href="https://instagram.com/lucasboina09" />   Instagram
+  <a href="https://instagram.com/lucasmantelli09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasmantelli09" height="30" width="40" /></a>
+  <a href="https://instagram.com/lucasmantelli09" />   Instagram
     </th> 
 
   </tr>
@@ -54,17 +54,17 @@
 <table>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasboina&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasmantelli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
 
   </td>
   <td>
-     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lucasboina&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
+     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lucasmantelli&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
   </td>
 </tr>
 </table>
 <div align="center">
 
-  <img alt="github-snake" src="https://github.com/Lucasboina/Lucasboina/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://github.com/lucasmantelli/lucasmantelli/blob/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
